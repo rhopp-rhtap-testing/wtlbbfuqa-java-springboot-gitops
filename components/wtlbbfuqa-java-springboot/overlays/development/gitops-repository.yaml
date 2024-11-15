@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wtlbbfuqa-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/wtlbbfuqa-java-springboot-gitops
